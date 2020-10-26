@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nobleman/static/css/main.b3c3f85d.chunk.css",
+    "main.js": "/nobleman/static/js/main.86b89fb9.chunk.js",
+    "main.js.map": "/nobleman/static/js/main.86b89fb9.chunk.js.map",
+    "runtime-main.js": "/nobleman/static/js/runtime-main.5c83a3e0.js",
+    "runtime-main.js.map": "/nobleman/static/js/runtime-main.5c83a3e0.js.map",
+    "static/js/2.a3a3faf7.chunk.js": "/nobleman/static/js/2.a3a3faf7.chunk.js",
+    "static/js/2.a3a3faf7.chunk.js.map": "/nobleman/static/js/2.a3a3faf7.chunk.js.map",
+    "index.html": "/nobleman/index.html",
+    "precache-manifest.0e350d1b0b0da234a5631c8cdaf02318.js": "/nobleman/precache-manifest.0e350d1b0b0da234a5631c8cdaf02318.js",
+    "service-worker.js": "/nobleman/service-worker.js",
+    "static/css/main.b3c3f85d.chunk.css.map": "/nobleman/static/css/main.b3c3f85d.chunk.css.map",
+    "static/js/2.a3a3faf7.chunk.js.LICENSE.txt": "/nobleman/static/js/2.a3a3faf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c83a3e0.js",
+    "static/js/2.a3a3faf7.chunk.js",
+    "static/css/main.b3c3f85d.chunk.css",
+    "static/js/main.86b89fb9.chunk.js"
+  ]
+}
