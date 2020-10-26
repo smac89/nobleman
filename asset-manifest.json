@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nobleman/static/css/main.b3c3f85d.chunk.css",
-    "main.js": "/nobleman/static/js/main.52e23f32.chunk.js",
-    "main.js.map": "/nobleman/static/js/main.52e23f32.chunk.js.map",
+    "main.css": "/nobleman/static/css/main.f4a9db96.chunk.css",
+    "main.js": "/nobleman/static/js/main.e926c9c0.chunk.js",
+    "main.js.map": "/nobleman/static/js/main.e926c9c0.chunk.js.map",
     "runtime-main.js": "/nobleman/static/js/runtime-main.5c83a3e0.js",
     "runtime-main.js.map": "/nobleman/static/js/runtime-main.5c83a3e0.js.map",
-    "static/js/2.a3a3faf7.chunk.js": "/nobleman/static/js/2.a3a3faf7.chunk.js",
-    "static/js/2.a3a3faf7.chunk.js.map": "/nobleman/static/js/2.a3a3faf7.chunk.js.map",
+    "static/js/2.042f3de1.chunk.js": "/nobleman/static/js/2.042f3de1.chunk.js",
+    "static/js/2.042f3de1.chunk.js.map": "/nobleman/static/js/2.042f3de1.chunk.js.map",
     "index.html": "/nobleman/index.html",
-    "precache-manifest.b4ee8426d30a51b3178b99e764ff77f5.js": "/nobleman/precache-manifest.b4ee8426d30a51b3178b99e764ff77f5.js",
+    "precache-manifest.94303193bbb1439dc3fba1620de03694.js": "/nobleman/precache-manifest.94303193bbb1439dc3fba1620de03694.js",
     "service-worker.js": "/nobleman/service-worker.js",
-    "static/css/main.b3c3f85d.chunk.css.map": "/nobleman/static/css/main.b3c3f85d.chunk.css.map",
-    "static/js/2.a3a3faf7.chunk.js.LICENSE.txt": "/nobleman/static/js/2.a3a3faf7.chunk.js.LICENSE.txt"
+    "static/css/main.f4a9db96.chunk.css.map": "/nobleman/static/css/main.f4a9db96.chunk.css.map",
+    "static/js/2.042f3de1.chunk.js.LICENSE.txt": "/nobleman/static/js/2.042f3de1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c83a3e0.js",
-    "static/js/2.a3a3faf7.chunk.js",
-    "static/css/main.b3c3f85d.chunk.css",
-    "static/js/main.52e23f32.chunk.js"
+    "static/js/2.042f3de1.chunk.js",
+    "static/css/main.f4a9db96.chunk.css",
+    "static/js/main.e926c9c0.chunk.js"
   ]
 }
