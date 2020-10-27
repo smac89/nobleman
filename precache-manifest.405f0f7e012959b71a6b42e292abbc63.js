@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61a1e8476c9c6aaa337843a77fcc1dfe",
+    "revision": "e422b3a6a42b8d21fa73a030a24f80e2",
     "url": "/nobleman/index.html"
   },
   {
-    "revision": "9be7631724799ff0e2ef",
-    "url": "/nobleman/static/css/main.f4a9db96.chunk.css"
+    "revision": "f19569a5444bc9527655",
+    "url": "/nobleman/static/css/main.a20961b3.chunk.css"
   },
   {
     "revision": "7d37d0c1d9d41b42cb3c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nobleman/static/js/2.042f3de1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9be7631724799ff0e2ef",
-    "url": "/nobleman/static/js/main.e926c9c0.chunk.js"
+    "revision": "f19569a5444bc9527655",
+    "url": "/nobleman/static/js/main.17b40bbf.chunk.js"
   },
   {
     "revision": "2d7c06b205a2bf0091ac",
