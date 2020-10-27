@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nobleman/static/css/main.68cb5b9b.chunk.css",
+    "main.css": "/nobleman/static/css/main.7df27a7c.chunk.css",
     "main.js": "/nobleman/static/js/main.ddd4b622.chunk.js",
     "main.js.map": "/nobleman/static/js/main.ddd4b622.chunk.js.map",
     "runtime-main.js": "/nobleman/static/js/runtime-main.5c83a3e0.js",
@@ -8,15 +8,15 @@
     "static/js/2.042f3de1.chunk.js": "/nobleman/static/js/2.042f3de1.chunk.js",
     "static/js/2.042f3de1.chunk.js.map": "/nobleman/static/js/2.042f3de1.chunk.js.map",
     "index.html": "/nobleman/index.html",
-    "precache-manifest.2bc7b1e56284f725351d70fbd7b13a23.js": "/nobleman/precache-manifest.2bc7b1e56284f725351d70fbd7b13a23.js",
+    "precache-manifest.1d436e2a2bc511eea2c619ed616e7154.js": "/nobleman/precache-manifest.1d436e2a2bc511eea2c619ed616e7154.js",
     "service-worker.js": "/nobleman/service-worker.js",
-    "static/css/main.68cb5b9b.chunk.css.map": "/nobleman/static/css/main.68cb5b9b.chunk.css.map",
+    "static/css/main.7df27a7c.chunk.css.map": "/nobleman/static/css/main.7df27a7c.chunk.css.map",
     "static/js/2.042f3de1.chunk.js.LICENSE.txt": "/nobleman/static/js/2.042f3de1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c83a3e0.js",
     "static/js/2.042f3de1.chunk.js",
-    "static/css/main.68cb5b9b.chunk.css",
+    "static/css/main.7df27a7c.chunk.css",
     "static/js/main.ddd4b622.chunk.js"
   ]
 }
